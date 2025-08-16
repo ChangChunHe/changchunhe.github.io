@@ -43,9 +43,7 @@ header:
 
 在这种框架下，体系自然会趋向于**最均匀的电子分布**，因为这对应着最大化的 **Shannon 熵**：
 
-\[
-S_b = - \sum_{i=1}^{N_\text{bond}} p_i \log p_i, \quad p_i = \frac{n_i}{N_\text{total}}
-\]
+\[S_b = a\]
 
 也就是说，系统会通过熵的最大化来增强电子离域、获得额外的稳定性。  
 最终，最优的电子分布就是使成键熵达到最大值的那一种。
@@ -60,7 +58,7 @@ S_b = - \sum_{i=1}^{N_\text{bond}} p_i \log p_i, \quad p_i = \frac{n_i}{N_\text{
 ---
 
 ✨ 从苯的共振，到蒽的多重 Kekulé 结构，再到复杂的碳纳米片，成键熵模型给我们提供了一种新的视角：  
-**熵并不仅仅是热力学量，它还是理解分子稳定性和磁性的关键钥匙。**
+**熵并不仅仅是热力学量，它还是理解分子稳定性的关键钥匙。**
 
 ## 2. Bonding entropy model for magnetic graphene nanoflakes (Physical Review B, 2025)
 
