@@ -1,11 +1,11 @@
 ---
 title: "Bonding Entropy Model"
 layout: single-portfolio
-excerpt: "<img src='/images/research/BEM.png' alt=''>"
+excerpt: "<img src='/images/research/BEM.PNG' alt=''>"
 collection: research
 order_number: 30
 header: 
-  og_image: "research/BEM.png"
+  og_image: "research/BEM.PNG"
 ---
 
 
