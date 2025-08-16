@@ -47,11 +47,12 @@ header:
 - 所有平面硼团簇都可能表现出铁磁性；  
 - 这些团簇可以进一步组装成磁性单层或磁性半导体；  
 - **B34 团簇**尤为特殊，它具有较大的量子自旋数 S = 3。  
-
+![替代文本](https://raw.githubusercontent.com/ChangChunHe/changchunhe.github.io/refs/heads/master/images/research/boron_1.png)
 分子动力学（AIMD）模拟结果表明：  
 即使在 **500 K** 的高温下，B34 的磁矩依然大于 4 μB，表现出惊人的热稳定性。  
 此外，由磁性团簇与非磁性团簇拼装而成的硼单层，也能够在室温下保持磁性半导体特性，说明这种铁磁有序具有良好的鲁棒性。
 
+![替代文本](https://raw.githubusercontent.com/ChangChunHe/changchunhe.github.io/refs/heads/master/images/research/boron_2.png)
 ## 5. 展望：硼基磁性二维器件
 
 这些结果意味着：**二维硼不仅仅是碳的“邻居”，更可能是未来自旋电子学和新型纳米器件的重要候选材料**。  
