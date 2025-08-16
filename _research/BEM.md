@@ -31,7 +31,7 @@ header:
 如果我们把视野扩展到更大的分子，例如 **蒽（anthracene）**，情况就复杂了。  
 蒽拥有四种 Kekulé 结构。  
 量子化学计算表明：蒽分子边缘的 C–C 键比内部的 C–C 键更强。  
-然而，要准确计算出这些键的成键序数（ONs）却非常困难，通常只能依赖昂贵的一阶原理计算（DFT 等）。
+然而，要准确计算出这些键的成键序数（ONs）却非常困难，通常只能依赖昂贵的第一性原理计算（DFT 等）。
 
 ## 3. 成键熵模型（Bonding Entropy Model, BEM）
 ![](https://raw.githubusercontent.com/ChangChunHe/changchunhe.github.io/refs/heads/master/images/research/BEM.PNG)
