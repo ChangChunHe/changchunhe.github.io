@@ -6,5 +6,5 @@ date: 2023-10-01
 venue: 'Renewable Energy'
 paperurl: "/files/pdf/research/2022-Renewable Energy.pdf"
 link: 'https://www.sciencedirect.com/science/article/pii/S0960148122011156'
-citation: "Wenbin Jiang*, <B>Changchun He</B>*, Xiaobao Yang, Xuezhang Xiao, Liuzhang Ouyang, Min Zhu 2023.  <i>Renewable Energy</i> <B>197</B>, 564-573 (2023)."
+citation: "Wenbin Jiang*, <B>Changchun He</B>*, Xiaobao Yang, Xuezhang Xiao, Liuzhang Ouyang, Min Zhu <i>Renewable Energy</i> <B>197</B>, 564-573 (2023)."
 ---
