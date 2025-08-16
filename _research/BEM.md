@@ -34,6 +34,7 @@ header:
 然而，要准确计算出这些键的成键序数（ONs）却非常困难，通常只能依赖昂贵的一阶原理计算（DFT 等）。
 
 ## 3. 成键熵模型（Bonding Entropy Model, BEM）
+![](https://raw.githubusercontent.com/ChangChunHe/changchunhe.github.io/refs/heads/master/images/research/BEM.PNG)
 
 为了解决这个问题，研究者提出了 **成键熵模型**。  
 核心思想非常优雅：  
