@@ -9,11 +9,6 @@ header:
 ---
 
 
-Recently, several studies have offered fresh perspectives on the structural properties of graphene nanostructures, combining insights from condensed matter physics, chemistry, and materials science.
-
-
-## 1. Bonding entropy model for carbon nanostructures (Journal of Chemical Physics, 2025)
-
 # 从苯分子到碳纳米结构：成键熵模型的直观理解
 
 要理解碳纳米结构中的原子间相互作用，我们不妨从最简单的苯分子谈起。
