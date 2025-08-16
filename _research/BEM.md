@@ -83,6 +83,7 @@ $$
 ---
 
 ## 研究方法：成键熵模型（BEM）
+![](https://raw.githubusercontent.com/ChangChunHe/changchunhe.github.io/refs/heads/master/images/research/fig1.png)
 
 BEM 的核心思想是：  
 在价电子数的约束下，体系会趋向于**最大化成键熵**，从而获得最稳定的电子分布。  
@@ -91,6 +92,8 @@ BEM 的核心思想是：
 - 在模型中，电子分配到化学键与未成对电子之间有一个权重系数 **α**，其数值由体系的未成对电子数唯一决定。  
 - 这个方法不依赖额外的拟合参数，既适用于 **非-Kekulé 系统**，也适用于 **Kekulé 系统**。
 
+![](https://raw.githubusercontent.com/ChangChunHe/changchunhe.github.io/refs/heads/master/images/research/fig2.png)
+
 ---
 
 ## 主要结果
@@ -98,6 +101,7 @@ BEM 的核心思想是：
 ### 1. 模型准确性  
 - 对典型分子（如 **[3]triangulene**、**Clar’s goblet** 以及 Kekulé 自由基），BEM 预测的电子密度分布、未成对电子数和局域磁矩与 DFT 结果高度一致。  
 - 模型揭示：**占据数与 C–C 键长呈线性关系**，体系总能量与成键熵也高度相关。  
+![](https://raw.githubusercontent.com/ChangChunHe/changchunhe.github.io/refs/heads/master/images/research/fig3.png)
 
 ### 2. 分类与物理机制  
 - **非-Kekulé 系统（类型 I 和 II）**：磁性源自亚晶格不平衡或拓扑挫折。  
@@ -111,6 +115,7 @@ BEM 的核心思想是：
 ### 4. Kekulé 系统的磁性转变  
 - 对某些 Kekulé 分子，若开放壳层（存在未成对电子），会提高成键熵并增强芳香性，从而获得更稳定的结构。  
 - 模型预测的未成对电子数与 DFT 计算得到的总磁矩呈现**线性关系**。  
+![](https://raw.githubusercontent.com/ChangChunHe/changchunhe.github.io/refs/heads/master/images/research/fig6.png)
 
 ---
 
