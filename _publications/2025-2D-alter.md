@@ -6,5 +6,5 @@ date: 2025-05-13
 venue: 'Phys. Rev. B'
 link: 'https://doi.org/10.1103/PhysRevB.111.195123'
 paperurl: "/files/pdf/research/PhysRevB.111.195123.pdf"
-citation: "Hongjie Peng, Sike Zeng, Ji-Hai Liao, <B>Chang-Chun He</B>†, Xiao-Bao Yang, and Yu-Jun Zhao &quot;A general approach to generating multicomponent structures with two-dimensional altermagnetism.&quot; <i>Phys. Rev. B</i> <B>111</B>, 195123 (2025) <br> doi: https://doi.org/10.1103/PhysRevB.111.195123"
+citation: "Hongjie Peng, Sike Zeng, Ji-Hai Liao, <B>Chang-Chun He</B>†, Xiao-Bao Yang, and Yu-Jun Zhao &quot;<i>Phys. Rev. B</i> <B>111</B>, 195123 (2025)."
 ---
