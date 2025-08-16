@@ -86,6 +86,9 @@ They show that entropy is not just a thermodynamic quantity, but also a lens thr
 For researchers, this offers a practical modeling tool; for enthusiasts, it’s an elegant reminder that simplicity can illuminate complexity in quantum materials.  
 
 # 参考文献
-[1] Chang-Chun He*, Shao-Gang Xu*,Jiarui Zeng, Weijie Huang, Yao Yao, Yu-Jun Zhao, Hu Xu, and Xiao-Bao Yang J. Chem. Phys. 162, 154104 (2025).
-[2] Chang-Chun He†, Shao-Gang Xu, Yu-Jun Zhao, Hu Xu, and Xiao-Bao Yang Phys. Rev. B 111, 085408 (2025).
-[3] Hai-Wei Luo, Chang-Chun He†, Yu-Jun Zhao, Xiao-Bao Yang† J. Chem. Phys. 163,074701 (2025).
+
+[1] Chang-Chun He*, Shao-Gang Xu*, Jiarui Zeng, Weijie Huang, Yao Yao, Yu-Jun Zhao, Hu Xu, and Xiao-Bao Yang. *J. Chem. Phys.* **162**, 154104 (2025).  
+
+[2] Chang-Chun He†, Shao-Gang Xu, Yu-Jun Zhao, Hu Xu, and Xiao-Bao Yang. *Phys. Rev. B* **111**, 085408 (2025).  
+
+[3] Hai-Wei Luo, Chang-Chun He†, Yu-Jun Zhao, Xiao-Bao Yang†. *J. Chem. Phys.* **163**, 074701 (2025).  
