@@ -68,3 +68,6 @@ header:
 ---
 
 ✨ 总的来说，交错磁既不同于传统铁磁，也不同于反铁磁，它的“零净磁矩 + 自旋分裂能带”特性，或许能开启二维磁性材料研究和应用的新篇章。
+
+## 参考文献
+[1] Hongjie Peng, Sike Zeng, Ji-Hai Liao, Chang-Chun He†, Xiao-Bao Yang, and Yu-Jun Zhao Phys. Rev. B 111, 195123 (2025).
