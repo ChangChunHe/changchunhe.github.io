@@ -2,7 +2,7 @@
 title: "Unified bonding entropy model to determine magnetic properties in graphene nanoflakes"
 collection: publications
 permalink: /publication/2025-magnetic-graphene-nanoflake
-date: 2025-02-07
+date: 2025-09-02
 venue: 'Phys. Rev. B'
 link: 'https://journals.aps.org/prb/abstract/10.1103/kg19-6xmm'
 paperurl: "/files/pdf/research/2025-magnetic-graphene.pdf"
