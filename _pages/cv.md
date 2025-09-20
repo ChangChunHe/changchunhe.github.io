@@ -52,6 +52,7 @@ redirect_from:
    *J. Chem. Phys.* **163**, 074701 (2025).  
 5. Shaogang Xu#, **Chang-Chun He**#, Yujun Zhao, Xiaobao Yang, and Hu Xu†.  
    *J. Am. Chem. Soc.* **145**(45), 25003–25009 (2023).  
+†代表通讯作者，#代表共同第一作者
 
 ---
 
