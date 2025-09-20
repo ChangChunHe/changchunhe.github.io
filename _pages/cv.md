@@ -44,7 +44,7 @@ redirect_from:
 ## 代表性论文
 1. **Chang-Chun He**†, Shao-Gang Xu, Yu-Jun Zhao, Hu Xu, and Xiao-Bao Yang.  
    *Phys. Rev. B* **111**, 085408 (2025).  
-2. **Chang-Chun He***, Shao-Gang Xu*, Jiarui Zeng, Weijie Huang, Yao Yao, Yu-Jun Zhao, Hu Xu†, and Xiao-Bao Yang†.  
+2. **Chang-Chun He**#, Shao-Gang Xu#, Jiarui Zeng, Weijie Huang, Yao Yao, Yu-Jun Zhao, Hu Xu†, and Xiao-Bao Yang†.  
    *J. Chem. Phys.* **162**, 154104 (2025).  
 3. Hongjie Peng, Sike Zeng, Ji-Hai Liao, **Chang-Chun He**†, Xiao-Bao Yang, and Yu-Jun Zhao.  
    *Phys. Rev. B* **111**, 195123 (2025).  
